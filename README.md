@@ -76,6 +76,8 @@ sns.boxplot(x='Churn', y='TempoContrato', data=df)
 
 ---
 
+### LINK 🤖 :https://colab.research.google.com/drive/1OGo415dOtWj4Y2vo6f5j0mfdDJABzKhH?usp=sharing
+
 ### 4️⃣ 📑 Relatório Final  
 
 Após a análise, observamos:  
